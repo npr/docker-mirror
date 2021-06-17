@@ -150,3 +150,7 @@ repositories:
   - name: rabbitmq
     match_tag:
       - "3-management"
+  
+  - name: composer
+    match_tag:
+      - "latest"
